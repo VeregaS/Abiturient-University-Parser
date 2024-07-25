@@ -1,5 +1,5 @@
 @echo off
-set VENV_PATH=C:\Games\python
+set VENV_PATH=PATH TO YOUR PYTHON HERE (only folder)
 chcp 65001
 
 :main
